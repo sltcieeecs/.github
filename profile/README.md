@@ -6,35 +6,26 @@ IEEE Computer Society of SLTC is a student-led professional community dedicated 
 
 ## Features
 
-### 📘 Facebook Album Preview
-> Stay connected with our journey through highlights, workshops, and memorable moments captured across our official Facebook photo albums.
-
-<!-- Replace IMAGE_URL with actual image links -->
-![Facebook Album Preview](IMAGE_URL)
+| 📘 Facebook Album Preview | 🌐 Community Highlights |
+|--------------------------|------------------------|
+| ![Facebook Album Preview](IMAGE_URL) | Stay connected with our journey through workshops, events, and memorable moments captured across our official Facebook photo albums. |
 
 ---
 
 ## Our Events
 
-Explore our flagship events that inspire creativity, innovation, and technical excellence:
-
-[![Codemania](IMAGE_URL)](#)  
-**Codemania** – A competitive coding event fostering problem-solving skills and algorithmic thinking.
-
-[![Cloudspace](IMAGE_URL)](#)  
-**Cloudspace** – A hands-on exploration of cloud computing technologies and modern infrastructure.
-
-[![Ideanix](IMAGE_URL)](#)  
-**Ideanix** – A platform for innovative ideas, creativity, and transforming concepts into real-world solutions.
+| 💻 Codemania | ☁️ Cloudspace | 💡 Ideanix |
+|-------------|--------------|-----------|
+| [![Codemania](IMAGE_URL)](#) | [![Cloudspace](IMAGE_URL)](#) | [![Ideanix](IMAGE_URL)](#) |
+| Competitive coding event fostering problem-solving and algorithmic thinking. | Hands-on sessions exploring cloud computing and modern infrastructure. | A platform for innovation, creativity, and transforming ideas into real-world solutions. |
 
 ---
 
 ## Gallery
 
-### 📸 Facebook Post Highlights
-> A glimpse into our active community, events, and achievements shared through our official Facebook posts.
-
-![Facebook Post Preview](IMAGE_URL)
+| 📸 Event Moments | 🚀 Community Activities |
+|-----------------|-------------------------|
+| ![Facebook Post Preview](IMAGE_URL) | A glimpse into our active community, achievements, and experiences shared through our official Facebook posts. |
 
 ---
 
